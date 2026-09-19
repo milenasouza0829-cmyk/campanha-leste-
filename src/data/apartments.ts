@@ -2,8 +2,8 @@ import { Apartment } from '../types';
 
 export const GOOGLE_FORM_LINKS = {
   form1: 'https://docs.google.com/forms/d/e/1FAIpQLSdk6ZRy7DmLA-tjAwBEJLM_vvUJpLPMV33vuOz2CdBSCPaLPQ/viewform?usp=publish-editor',
-  form2: 'https://docs.google.com/forms/d/e/1FAIpQLSeRxyxY8_YK41tUiDCVkEjAzoptFNJLFPJTZH1umTElkHHQCA/viewform?usp=publish-editor',
-  form3: 'https://docs.google.com/forms/d/e/1FAIpQLSe7TSwPcBLFHNlt7JGqw6y2alpyI2w2Dm_PLFCJVc0uJwVlZA/viewform?usp=publish-editor',
+  form2: 'https://docs.google.com/forms/d/e/1FAIpQLSeDz1rynjRndGuWxOcUcSk4tvkbmkeeW9TDbWKCWK3KSUvEdg/viewform?usp=publish-editor',
+  form3: 'https://docs.google.com/forms/d/e/1FAIpQLSdg0UL9m3nutpKtuyLNYl8DHTSl81RWAWdqIqDanUujOPzo0A/viewform?usp=publish-editor',
 };
 
 export const APARTMENTS: Apartment[] = [
