@@ -1,0 +1,6 @@
+{
+  "name": "Portal Imobiliário - Apartamentos & Lançamentos",
+  "description": "Landing page de vendas de apartamentos com opções e formulários de interesse nas localidades da Mooca, Tatuapé e Vila Ema em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
